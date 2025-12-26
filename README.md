@@ -106,8 +106,9 @@ I believe DevOps is a **continuous learning journey**, and I actively experiment
 
 ## 📊 GitHub Stats:
 
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YR55&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YR55&theme=github_dark" />
 </p>
 
 
